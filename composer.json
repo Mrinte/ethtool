@@ -1,6 +1,6 @@
 {
-  "name": "summerpassion/ethtool",
-  "description": "development tools",
+  "name": "mrinte/ethtool",
+  "description": "mrinte tools",
   "type": "library",
   "license": "MIT",
   "minimum-stability": "dev",
